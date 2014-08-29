@@ -1,6 +1,7 @@
 # eew.el
 
-Japanese Earthquake Early Warning for Emacs
+Japanese Earthquake Early Warning for Emacs.
+This package is Emacs port of [eew.vim](https://github.com/haya14busa/eew.vim)
 
 
 ## Screenshot
